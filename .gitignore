@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/MovieDatabase.API/bin/Debug/net7.0
+/MovieDatabase.API/obj
+/MovieDatabase.Business/bin/Debug/net7.0
+/MovieDatabase.Business/obj
+/MovieDatabase.Business.Tests/bin/Debug/net7.0
+/MovieDatabase.Business.Tests/obj
+/MovieDatabase.Data.Domain/bin/Debug/net7.0
+/MovieDatabase.Data.Domain/obj
+/MovieDatabase.Data.SQLServer/bin/Debug/net7.0
+/MovieDatabase.Data.SQLServer/obj
